@@ -1,2 +1,1 @@
-# AirBnB_clone
-team project
+#AIRBNB
